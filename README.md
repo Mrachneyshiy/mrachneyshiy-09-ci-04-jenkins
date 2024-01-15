@@ -543,7 +543,7 @@ Finished: FAILURE
 
 3. Перенести Declarative Pipeline в репозиторий в файл `Jenkinsfile`.
 
-- [Jenkinsfile](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/Jenkinsfile)
+- [Jenkinsfile](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/blob/641e7228452e16bbfeeed61d50d5eb477997b1c3/Jenkinsfile)
 
 4. Создать Multibranch Pipeline на запуск `Jenkinsfile` из репозитория.
 
@@ -1144,9 +1144,9 @@ Finished: SUCCESS
 
 - [Vector-role](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/tree/main/roles/vector-role)
 
-- [Declarative Pipeline](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/Jenkinsfile)
+- [Declarative Pipeline](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/blob/641e7228452e16bbfeeed61d50d5eb477997b1c3/Jenkinsfile)
 
-- [Scripted Pipeline](https://github.com/Mrachneyshiy/dev-17_ansible-04-role-mrachneyshiy/ScriptedJenkinsfile)
+- [Scripted Pipeline](https://github.com/Mrachneyshiy/mrachneyshiy-09-ci-04-jenkins/blob/main/ScriptedJenkinsfile)
 
 ## Необязательная часть
 
